@@ -76,5 +76,5 @@
 
 
 
-!\[E-Commerce Sales \& Fulfilment Dashboard](Ecommerce\_Sales\_Fulfilment\_Dashboard.png)
+!\[E-Commerce Sales & Fulfilment Dashboard](Ecommerce Sales Fulfilment Dashboard.png)
 
